@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		973C2BE61AD6EDF300F86959 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		973C2BE71AD6EE1300F86959 /* main.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = main.css; sourceTree = "<group>"; };
+		973C2BE81AD6EFE300F86959 /* introduction.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = introduction.html; sourceTree = "<group>"; };
+		973C2BE91AD6F0E300F86959 /* blackberry.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = blackberry.html; sourceTree = "<group>"; };
+		973C2BEA1AD6F71600F86959 /* perkin.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = perkin.html; sourceTree = "<group>"; };
+		973C2BEB1AD6F9B100F86959 /* conclusion.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = conclusion.html; sourceTree = "<group>"; };
+		973C2BEC1AD6FA4A00F86959 /* acknowledge.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = acknowledge.html; sourceTree = "<group>"; };
+		973C2BED1AD6FD7500F86959 /* bbJob.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbJob.html; sourceTree = "<group>"; };
+		973C2BEE1AD6FDF900F86959 /* perkinFocus.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = perkinFocus.html; sourceTree = "<group>"; };
+		973C2BEF1AD6FDF900F86959 /* perkinGoal.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = perkinGoal.html; sourceTree = "<group>"; };
+		973C2BF01AD6FDF900F86959 /* perkinJob.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = perkinJob.html; sourceTree = "<group>"; };
+		973C2BF11AD6FDF900F86959 /* perkinSkills.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = perkinSkills.html; sourceTree = "<group>"; };
+		973C2BF21AD6FF0E00F86959 /* bbFocus.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbFocus.html; sourceTree = "<group>"; };
+		973C2BF31AD6FF0E00F86959 /* bbGoal.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbGoal.html; sourceTree = "<group>"; };
+		973C2BF41AD6FF0E00F86959 /* bbSkills.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbSkills.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		973C2BDF1AD6ECBD00F86959 = {
+			isa = PBXGroup;
+			children = (
+				973C2BF21AD6FF0E00F86959 /* bbFocus.html */,
+				973C2BF31AD6FF0E00F86959 /* bbGoal.html */,
+				973C2BF41AD6FF0E00F86959 /* bbSkills.html */,
+				973C2BEE1AD6FDF900F86959 /* perkinFocus.html */,
+				973C2BEF1AD6FDF900F86959 /* perkinGoal.html */,
+				973C2BF01AD6FDF900F86959 /* perkinJob.html */,
+				973C2BF11AD6FDF900F86959 /* perkinSkills.html */,
+				973C2BED1AD6FD7500F86959 /* bbJob.html */,
+				973C2BEC1AD6FA4A00F86959 /* acknowledge.html */,
+				973C2BEB1AD6F9B100F86959 /* conclusion.html */,
+				973C2BEA1AD6F71600F86959 /* perkin.html */,
+				973C2BE91AD6F0E300F86959 /* blackberry.html */,
+				973C2BE81AD6EFE300F86959 /* introduction.html */,
+				973C2BE71AD6EE1300F86959 /* main.css */,
+				973C2BE61AD6EDF300F86959 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		973C2BE01AD6ECBD00F86959 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = 973C2BE31AD6ECBE00F86959 /* Build configuration list for PBXProject "Website" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 973C2BDF1AD6ECBD00F86959;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		973C2BE41AD6ECBE00F86959 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		973C2BE51AD6ECBE00F86959 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		973C2BE31AD6ECBE00F86959 /* Build configuration list for PBXProject "Website" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				973C2BE41AD6ECBE00F86959 /* Debug */,
+				973C2BE51AD6ECBE00F86959 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 973C2BE01AD6ECBD00F86959 /* Project object */;
+}
