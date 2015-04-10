@@ -5,18 +5,20 @@
     padding: 14px 10px;
     text-transform: uppercase;
 }
-
+body {
+     background-image:url('images/bg.jpg');
+     background-size: cover;
+}
+.nav {
+    background: #fff;
+}
 .nav li {
     display: inline;
 }
 
 .jumbotron {
-    background-image:url('images/bg.jpg');
-    height: 200%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background:transparent !important;
 }
-
 .jumbotron .container {
     position: relative;
     top:50px;
@@ -35,7 +37,7 @@
 }
 
 .jumbotron li {
-    font-size: 17px;
+    font-size: 20px;
     color: #fff;
     font-weight: normal;
 }

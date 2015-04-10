@@ -22,12 +22,18 @@
 		973C2BF21AD6FF0E00F86959 /* bbFocus.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbFocus.html; sourceTree = "<group>"; };
 		973C2BF31AD6FF0E00F86959 /* bbGoal.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbGoal.html; sourceTree = "<group>"; };
 		973C2BF41AD6FF0E00F86959 /* bbSkills.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbSkills.html; sourceTree = "<group>"; };
+		973C2BF51AD767B900F86959 /* bbFocus2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbFocus2.html; sourceTree = "<group>"; };
+		973C2BF61AD767B900F86959 /* bbGoal2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbGoal2.html; sourceTree = "<group>"; };
+		973C2BF71AD767B900F86959 /* bbJob2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbJob2.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		973C2BDF1AD6ECBD00F86959 = {
 			isa = PBXGroup;
 			children = (
+				973C2BF51AD767B900F86959 /* bbFocus2.html */,
+				973C2BF61AD767B900F86959 /* bbGoal2.html */,
+				973C2BF71AD767B900F86959 /* bbJob2.html */,
 				973C2BF21AD6FF0E00F86959 /* bbFocus.html */,
 				973C2BF31AD6FF0E00F86959 /* bbGoal.html */,
 				973C2BF41AD6FF0E00F86959 /* bbSkills.html */,
