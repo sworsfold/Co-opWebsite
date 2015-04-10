@@ -25,12 +25,14 @@
 		973C2BF51AD767B900F86959 /* bbFocus2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbFocus2.html; sourceTree = "<group>"; };
 		973C2BF61AD767B900F86959 /* bbGoal2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbGoal2.html; sourceTree = "<group>"; };
 		973C2BF71AD767B900F86959 /* bbJob2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = bbJob2.html; sourceTree = "<group>"; };
+		973C2BF81AD7A43800F86959 /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		973C2BDF1AD6ECBD00F86959 = {
 			isa = PBXGroup;
 			children = (
+				973C2BF81AD7A43800F86959 /* README.txt */,
 				973C2BF51AD767B900F86959 /* bbFocus2.html */,
 				973C2BF61AD767B900F86959 /* bbGoal2.html */,
 				973C2BF71AD767B900F86959 /* bbJob2.html */,
